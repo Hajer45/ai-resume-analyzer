@@ -32,7 +32,7 @@ Before running this project, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone 
+git clone https://github.com/Hajer45/ai-resume-analyzer
 cd ai-resume-analyzer
 ```
 
